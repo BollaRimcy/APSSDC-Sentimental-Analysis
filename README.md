@@ -1,1 +1,7 @@
-# APSSDC-Sentimental-Analysis
+- 👋 Hi, I’m @BollaRimcy.
+- 👀 I’m interested in Web Development & Full Stack.
+- 🌱 I’m currently learning Information Technology.
+- 💞️ I’m looking to collaborate on various projects related to we technology.
+- 📫 How to reach me
+- Email Id: bollarimcy77@gmail.com
+- 😄 Pronouns: ... She/her
